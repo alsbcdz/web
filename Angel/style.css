@@ -1,0 +1,42 @@
+.cabecera{
+    width: 100%;
+    background-color: blue;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.menu{
+    text-align: right;
+    font-family: Comic Sans Ms;
+    color: white;
+    background-color: green;
+}
+
+body{
+    background-image:url(mandalorian.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }	
+ iframe{
+     float: right;
+     margin-right: 20px;
+ }
+
+ .cities {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    float: right;
+}
+
+.galeria{
+    background-color: gray;
+    margin: 0 auto;
+}
+
+.galeria img{
+width: 200px;
+}
